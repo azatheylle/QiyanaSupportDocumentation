@@ -34,20 +34,44 @@
 - Good synergy with extended fights where Conqueror excels
 - Helps survive engage from tank supports
 
+**Resolve (Situational with Electrocute)**
+- Consider taking Resolve secondary even with Electrocute against heavy poke lanes
+- Particularly useful against champions like Caitlyn when combined with strong poke supports
+- Provides early game survivability at the cost of some damage potential
+
 ---
 
 ## Team Champions
 
 *Documentation for playing WITH specific champions*
 
-### Champion List
-*To be populated with specific champion matchup information*
+### Top Lane
 
-**Format for each champion:**
-- Champion Name
-- Synergy Rating
-- Key Points
-- Win/Loss Record
+**Sett**
+- **Synergy Rating:** Good
+- **Key Points:** 
+  - Excellent synergy as Sett will join you in the backline with his R
+  - Provides good setup with his CC and slow effects
+  - Strong engage potential when coordinated
+- **Win/Loss Record:** TBD
+
+### Jungle
+
+*Champion matchups to be documented*
+
+### Mid Lane
+
+**Malzahar**
+- **Synergy Rating:** Excellent  
+- **Key Points:**
+  - Qiyana is generally really good with all setup midlaners
+  - Play extra around mid lane, especially when Malzahar has R available
+  - Great combo potential with Malzahar's suppress into Qiyana burst
+- **Win/Loss Record:** TBD
+
+### ADC
+
+*Champion matchups to be documented*
 
 ---
 
@@ -55,14 +79,37 @@
 
 *Documentation for playing AGAINST specific champions*
 
-### Champion List
-*To be populated with specific champion matchup information*
+### Top Lane
 
-**Format for each champion:**
-- Champion Name  
-- Difficulty Rating
-- Counter Strategies
-- Win/Loss Record
+*Champion matchups to be documented*
+
+### Jungle
+
+**Nunu**
+- **Difficulty Rating:** Favorable
+- **Counter Strategies:**
+  - You can easily cancel his ultimate or W (Snowball) with ice Q
+  - Recommend holding ice Q specifically to cancel unexpected Nunu Ws
+  - Good positioning to interrupt his engage attempts
+- **Win/Loss Record:** TBD
+
+### Mid Lane
+
+*Champion matchups to be documented*
+
+### ADC
+
+**Caitlyn**
+- **Difficulty Rating:** Challenging
+- **Counter Strategies:**
+  - Try not to get poked out too hard in early game
+  - Depending on your ADC and enemy support, consider going Resolve secondary tree even with Electrocute
+  - Focus on avoiding her trap zones and long-range poke
+- **Win/Loss Record:** TBD
+
+### Support
+
+*Champion matchups to be documented*
 
 ---
 
