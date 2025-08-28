@@ -29,6 +29,10 @@
 
 ### Secondary Trees
 
+**Inspiration**
+- Provides additional damage
+- Provides extra mana for lanes with a lot of potential poking
+
 **Resolve (Recommended with Conqueror)**
 - Provides additional survivability
 - Good synergy with extended fights where Conqueror excels
@@ -61,7 +65,7 @@
   - Excellent synergy as Sett will join you in the backline with his R
   - Provides good setup with his CC and slow effects
   - Strong engage potential when coordinated
-- **Win/Loss Record:** TBD
+- **Win/Loss Record:** 0-1
 
 ### Jungle
 
@@ -89,7 +93,7 @@
   - Qiyana is generally really good with all setup midlaners
   - Play extra around mid lane, especially when Malzahar has R available
   - Great combo potential with Malzahar's suppress into Qiyana burst
-- **Win/Loss Record:** TBD
+- **Win/Loss Record:** 0-1
 
 ### ADC
 
@@ -116,7 +120,7 @@
   - Standard tank matchup - focus on positioning and teamfight presence
   - Be aware of his ultimate to help teammates
   - Can be handled with proper positioning and team coordination
-- **Win/Loss Record:** 0-1
+- **Win/Loss Record:** 1-0
 
 ### Jungle
 
@@ -127,7 +131,7 @@
   - Play with your team and focus on teamplay rather than solo plays
   - Try to get your R off when his W is midair - timing is crucial
   - Positioning is key to avoid being caught out
-- **Win/Loss Record:** 0-1
+- **Win/Loss Record:** 1-0
 
 **Nunu**
 - **Difficulty Rating:** Favorable
@@ -135,7 +139,7 @@
   - You can easily cancel his ultimate or W (Snowball) with ice Q
   - Recommend holding ice Q specifically to cancel unexpected Nunu Ws
   - Good positioning to interrupt his engage attempts
-- **Win/Loss Record:** TBD
+- **Win/Loss Record:** 0-1
 
 ### Mid Lane
 
@@ -145,7 +149,7 @@
   - Standard mobile mage matchup
   - Be aware of her charm and mobility with ultimate
   - Focus on positioning and avoid getting caught by charm
-- **Win/Loss Record:** 0-1
+- **Win/Loss Record:** 1-0
 
 ### ADC
 
@@ -156,7 +160,7 @@
   - Beware of her range, especially if enemy support also has good range and poke damage
   - Consider Resolve secondary with Second Wind against heavy poke combinations
   - Focus on engaging when she's out of position due to lack of escape
-- **Win/Loss Record:** 0-1
+- **Win/Loss Record:** 1-0
 
 **Caitlyn**
 - **Difficulty Rating:** Challenging
@@ -164,7 +168,7 @@
   - Try not to get poked out too hard in early game
   - Depending on your ADC and enemy support, consider going Resolve secondary tree even with Electrocute
   - Focus on avoiding her trap zones and long-range poke
-- **Win/Loss Record:** TBD
+- **Win/Loss Record:** 0-1
 
 ### Support
 
@@ -175,12 +179,12 @@
   - Don't get hit by his Q and his champion becomes worthless
   - Very manageable matchup with proper positioning
   - Focus on dodging Q ability to negate most of his impact
-- **Win/Loss Record:** 0-1
+- **Win/Loss Record:** 1-0
 
 ---
 
 ## Notes
 
 - Always confirm contradictory information before making changes
-- W/L records will be maintained for each champion matchup
+- W/L records will be maintained for each champion matchup (winning versus or with a champion means putting 1-0 under it, and so losing with or against means putting 0-1 under it)
 - Documentation will be continuously updated based on gameplay experience
