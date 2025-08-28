@@ -47,6 +47,14 @@
 
 ### Top Lane
 
+**Kennen**
+- **Synergy Rating:** Excellent
+- **Key Points:**
+  - Insanely good synergy with Qiyana - your ults have really good synergy
+  - Especially powerful in river fights where both ultimates can be devastating
+  - Strong AOE teamfight potential when coordinated
+- **Win/Loss Record:** 1-0
+
 **Sett**
 - **Synergy Rating:** Good
 - **Key Points:** 
@@ -57,9 +65,23 @@
 
 ### Jungle
 
-*Champion matchups to be documented*
+**Hecarim**
+- **Synergy Rating:** Good
+- **Key Points:**
+  - Strong engage and follow-up potential with Qiyana
+  - Good mobility to coordinate ganks and teamfights
+  - Solid synergy for securing objectives and teamfights
+- **Win/Loss Record:** 1-0
 
 ### Mid Lane
+
+**Azir**
+- **Synergy Rating:** Excellent
+- **Key Points:**
+  - Really good synergy - you can ult off his ult or he can ult off your R
+  - Excellent combo potential with wall displacement into Qiyana burst
+  - Strong zone control and teamfight coordination
+- **Win/Loss Record:** 1-0
 
 **Malzahar**
 - **Synergy Rating:** Excellent  
@@ -71,7 +93,14 @@
 
 ### ADC
 
-*Champion matchups to be documented*
+**Varus**
+- **Synergy Rating:** Excellent
+- **Key Points:**
+  - Really good synergy for playing with Varus
+  - Has CC with his ult for free kills if hit - excellent setup potential
+  - Has good burst and poke damage that complements Qiyana's kit
+  - Strong lane phase and teamfight coordination
+- **Win/Loss Record:** 1-0
 
 ---
 
@@ -81,9 +110,24 @@
 
 ### Top Lane
 
-*Champion matchups to be documented*
+**Shen**
+- **Difficulty Rating:** Neutral
+- **Counter Strategies:**
+  - Standard tank matchup - focus on positioning and teamfight presence
+  - Be aware of his ultimate to help teammates
+  - Can be handled with proper positioning and team coordination
+- **Win/Loss Record:** 0-1
 
 ### Jungle
+
+**Pantheon**
+- **Difficulty Rating:** Challenging
+- **Counter Strategies:**
+  - A bit hard since he one-shots you if he gets on you
+  - Play with your team and focus on teamplay rather than solo plays
+  - Try to get your R off when his W is midair - timing is crucial
+  - Positioning is key to avoid being caught out
+- **Win/Loss Record:** 0-1
 
 **Nunu**
 - **Difficulty Rating:** Favorable
@@ -95,9 +139,24 @@
 
 ### Mid Lane
 
-*Champion matchups to be documented*
+**Ahri**
+- **Difficulty Rating:** Neutral  
+- **Counter Strategies:**
+  - Standard mobile mage matchup
+  - Be aware of her charm and mobility with ultimate
+  - Focus on positioning and avoid getting caught by charm
+- **Win/Loss Record:** 0-1
 
 ### ADC
+
+**Jinx**
+- **Difficulty Rating:** Favorable
+- **Counter Strategies:**
+  - Easy matchup since she has 0 mobility
+  - Beware of her range, especially if enemy support also has good range and poke damage
+  - Consider Resolve secondary with Second Wind against heavy poke combinations
+  - Focus on engaging when she's out of position due to lack of escape
+- **Win/Loss Record:** 0-1
 
 **Caitlyn**
 - **Difficulty Rating:** Challenging
@@ -109,7 +168,14 @@
 
 ### Support
 
-*Champion matchups to be documented*
+**Milio**
+- **Difficulty Rating:** Favorable
+- **Counter Strategies:**
+  - Probably #1 best matchup for Qiyana support
+  - Don't get hit by his Q and his champion becomes worthless
+  - Very manageable matchup with proper positioning
+  - Focus on dodging Q ability to negate most of his impact
+- **Win/Loss Record:** 0-1
 
 ---
 
