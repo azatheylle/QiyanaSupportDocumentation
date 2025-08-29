@@ -8,8 +8,9 @@
 ## Table of Contents
 
 1. [Rune Setups](#rune-setups)
-2. [Team Champions](#team-champions)
-3. [Enemy Champions](#enemy-champions)
+2. [General Tips](#general-tips)
+3. [Team Champions](#team-champions)
+4. [Enemy Champions](#enemy-champions)
 
 ---
 
@@ -42,6 +43,32 @@
 - Consider taking Resolve secondary even with Electrocute against heavy poke lanes
 - Particularly useful against champions like Caitlyn when combined with strong poke supports
 - Provides early game survivability at the cost of some damage potential
+
+---
+
+## General Tips
+
+*Essential gameplay techniques applicable in every match*
+
+### Combat Techniques
+
+**E-F Flash Combo**
+- Use E-F (E followed immediately by Flash) to execute combos faster
+- This technique allows for quicker gap closing and harder-to-react-to engages
+- Particularly effective for surprising opponents with instant burst damage
+
+**Q-W Wall Traversal**
+- Always use Q-W combination when crossing over walls instead of just using W alone
+- This technique provides better positioning and maintains your Q ability for follow-up damage
+- More efficient for both escape and engage scenarios
+
+### Teamfight Positioning
+
+**River Fight Ultimate Strategy**
+- In river fights, instead of ulting targets directly into walls, aim to ult them into the middle of the fight
+- This positioning allows your team to easily follow up and finish the target
+- The target still gets stunned while potentially catching more enemies in the area effect
+- Maximizes team coordination and increases overall teamfight impact
 
 ---
 
